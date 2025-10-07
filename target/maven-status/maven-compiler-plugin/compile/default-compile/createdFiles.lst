@@ -1,0 +1,6 @@
+Entity\Libro.class
+bibliotecauniversitariajpa\bibliotecauniversitariajpa\BibliotecaUniversitariaJPA.class
+Entity\Autor.class
+Entity\Categoria.class
+Entity\Usuario.class
+Entity\Credencial.class
